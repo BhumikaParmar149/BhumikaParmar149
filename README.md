@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BhumikaParmar149
-- 👀 I’m interested in ...Data analytics and Developer 
-- 🌱 I’m currently learning ... Data analytics course 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Bhumika Parmar
+👀 I’m interested in Data Analytics and Development
+🌱 I’m currently working as an MIS Executive at H R Solutions
+💞️ I’m looking to collaborate on projects related to data analysis, visualization, and software development
+📫 How to reach me:  LinkedIn - https://www.linkedin.com/in/bhumi-parmar-809016105
 
 <!---
 BhumikaParmar149/BhumikaParmar149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
